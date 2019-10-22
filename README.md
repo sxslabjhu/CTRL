@@ -8,12 +8,18 @@ Kai Yao, Nash Rochman, Sean Sun (*ssun@jhu.edu)
 
 Here we supplied the algorithms applied in our unpublished study ***CTRL: a label-free method for dynamic measurement of single-cell volume***.
 
-The general flow of applying the CTRL system goes as follows: 
-* **1. Microdevice fabrication:**
-* **2. Fluorescence Exclusion method (FXm) experiment:**
-* **3. DIC and fluorescence image acquisition:**
-* **4. Image pre-processing:**
+The general flow of building and applying a CTRL system for 3D cell reconstruction and single-cell volume measurement goes as follows: 
 
-* **5. Neural Network construction, training and validation:**
+* **1. Microdevice fabrication:** *Detailes can be found in the upcoming publication.* Please refer to our previous publication on cell volume[YAP and TAZ regulate cell volume](http://jcb.rupress.org/content/218/10/3472)
 
-* **6. Model application:**
+* **2. Fluorescence Exclusion method (FXm) experiment:** *Detailes can be found in the upcoming publication.* Please refer to our previous publication on cell volume[YAP and TAZ regulate cell volume](http://jcb.rupress.org/content/218/10/3472)ion.*
+
+* **3. DIC and fluorescence image acquisition:** *Detailes can be found in the upcoming publication.*
+
+* **4. Image pre-processing:** The codes are supplied in this repository.
+
+* **5. Neural Network construction, training and validation:** The codes are supplied in this repository.
+
+* **6. Model application:** The codes are supplied in this repository for both static single-cell volume prediction and time-lapse cell movie prediction.
+
+We hope you find the information and resourse helpful!
