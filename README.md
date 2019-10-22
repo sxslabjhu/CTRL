@@ -1,5 +1,5 @@
 # Cell Topography Regression Learner (CTRL)
-######Kai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu)
+###### Kai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu)
 </br>
 Johns Hopkins University
 
