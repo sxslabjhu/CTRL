@@ -22,4 +22,7 @@ The general flow of building and applying a CTRL system for 3D cell reconstructi
 
 * **6. Model application:** The codes are supplied in this repository for both static single-cell volume prediction and time-lapse cell movie prediction.
 
-We hope you find the information and resourse helpful!
+We hope you find the information and resource helpful.
+
+Kai Yao
+Oct 2019
