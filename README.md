@@ -1,8 +1,5 @@
 # Cell Topography Regression Learner (CTRL)
-element {
-  font-size: 75;Kai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu)
-}
-
+######Kai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu)
 </br>
 Johns Hopkins University
 
