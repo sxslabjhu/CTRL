@@ -1,6 +1,6 @@
 # Cell Topography Regression Learner (CTRL)
-##### Kai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu)
-###### Johns Hopkins University
+#### Kai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu)
+##### Johns Hopkins University
 
 <p align="center">
 <img src="https://github.com/sxslabjhu/CellTopographyRegressionLearner/blob/master/WheelCell.png" alt="Workflow" width="100%"/>
