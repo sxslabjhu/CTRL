@@ -7,7 +7,7 @@ Kai Yao, Nash Rochman, Sean Sun (*ssun@jhu.edu)
 </p>
 <br/><br/>
 Welcome to the world of cell biology x ML. Here we supply the algorithms applied in our currently unpublished study  
-***CTRL: a label-free method for dynamic measurement of single-cell volume***.
+***CTRL: a label-free method for dynamic measurement of single-cell volume.***
 
 The general flow of building and applying a CTRL system for 3D cell reconstruction and single-cell volume measurement goes as follows: 
 
