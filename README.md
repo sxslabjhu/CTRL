@@ -24,6 +24,6 @@ The general flow of building and applying a CTRL system for 3D cell reconstructi
 
 We hope you find the information and resource helpful.
 
-Kai Yao
-
+<br/><br/>
+Kai Yao :pencil2:
 Oct 2019
