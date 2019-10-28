@@ -9,9 +9,9 @@ Welcome to the world of Cell Biology ✕ ML. Here we supply the algorithms appli
 
 The general flow of building and applying a CTRL system for 3D cell reconstruction and single-cell volume measurement goes as follows: 
 
-* **1. Microdevice fabrication:** *Detailes can be found in the upcoming publication.* Please refer to our previous publication on cell volume - [YAP and TAZ regulate cell volume](http://jcb.rupress.org/content/218/10/3472)
+* **1. Microdevice fabrication:** *Detailes can be found in the upcoming publication.* Please refer to our previous publication on cell volume - [YAP and TAZ regulate cell volume](http://jcb.rupress.org/content/218/10/3472).
 
-* **2. Fluorescence Exclusion method (FXm) experiment:** *Detailes can be found in the upcoming publication.* Please refer to our previous publication on cell volume - [YAP and TAZ regulate cell volume](http://jcb.rupress.org/content/218/10/3472)
+* **2. Fluorescence Exclusion method (FXm) experiment:** *Detailes can be found in the upcoming publication.* Please refer to our previous publication on cell volume - [YAP and TAZ regulate cell volume](http://jcb.rupress.org/content/218/10/3472).
 
 * **3. DIC and fluorescence image acquisition:** *Detailes can be found in the upcoming publication.*
 
