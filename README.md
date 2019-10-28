@@ -5,7 +5,7 @@
 <img src="https://github.com/sxslabjhu/CellTopographyRegressionLearner/blob/master/WheelCell.png" alt="Workflow" width="100%"/>
 </p>
 
-Welcome to the world of Cell Biology ✕ ML. Here we supply the algorithms applied in our currently unpublished study: <br/>***CTRL: a label-free method for dynamic measurement of single-cell volume***. [bioRxiv](https://www.biorxiv.org/content/10.1101/817189v1)
+Welcome to the world of Cell Biology ✕ ML. Here we supply the algorithms applied in our currently unpublished study: <br/>***CTRL: a label-free method for dynamic measurement of single-cell volume***. You can find it on [bioRxiv](https://www.biorxiv.org/content/10.1101/817189v1).
 
 The general flow of building and applying a CTRL system for 3D cell reconstruction and single-cell volume measurement goes as follows: 
 
